@@ -1,0 +1,18 @@
+E:\220953014\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.exe.config
+E:\220953014\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.exe
+E:\220953014\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.pdb
+E:\220953014\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.csprojResolveAssemblyReference.cache
+E:\220953014\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.Form1.resources
+E:\220953014\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.Properties.Resources.resources
+E:\220953014\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.csproj.GenerateResource.Cache
+E:\220953014\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.exe
+E:\220953014\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.pdb
+D:\Users\Ganapathi\Documents\DBMS LAB\c#\registration form\RegistrationForm-20240205T141925Z-001\RegistrationForm\bin\Debug\RegistrationForm.exe.config
+D:\Users\Ganapathi\Documents\DBMS LAB\c#\registration form\RegistrationForm-20240205T141925Z-001\RegistrationForm\bin\Debug\RegistrationForm.exe
+D:\Users\Ganapathi\Documents\DBMS LAB\c#\registration form\RegistrationForm-20240205T141925Z-001\RegistrationForm\obj\Debug\RegistrationForm.csproj.AssemblyReference.cache
+D:\Users\Ganapathi\Documents\DBMS LAB\c#\registration form\RegistrationForm-20240205T141925Z-001\RegistrationForm\obj\Debug\RegistrationForm.Form1.resources
+D:\Users\Ganapathi\Documents\DBMS LAB\c#\registration form\RegistrationForm-20240205T141925Z-001\RegistrationForm\obj\Debug\RegistrationForm.Properties.Resources.resources
+D:\Users\Ganapathi\Documents\DBMS LAB\c#\registration form\RegistrationForm-20240205T141925Z-001\RegistrationForm\obj\Debug\RegistrationForm.csproj.GenerateResource.cache
+D:\Users\Ganapathi\Documents\DBMS LAB\c#\registration form\RegistrationForm-20240205T141925Z-001\RegistrationForm\obj\Debug\RegistrationForm.csproj.CoreCompileInputs.cache
+D:\Users\Ganapathi\Documents\DBMS LAB\c#\registration form\RegistrationForm-20240205T141925Z-001\RegistrationForm\obj\Debug\RegistrationForm.exe
+D:\Users\Ganapathi\Documents\DBMS LAB\c#\registration form\RegistrationForm-20240205T141925Z-001\RegistrationForm\obj\Debug\RegistrationForm.pdb
